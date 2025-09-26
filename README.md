@@ -49,14 +49,10 @@ Part 2 focuses on **visual styling with CSS** and **responsive design**.
 Please include screenshots of the website displayed at different screen sizes:
 
 1. **Desktop View** – Full layout with grid and multi-column content.  
-2. **Tablet View** – Navigation adjusts, content reflows to fewer columns.  
-3. **Mobile View** – Single-column layout, stacked navigation, scaled fonts.  
-
-> Screenshots should be added to the `screenshots/` folder and linked here in the README.  
+2. **Mobile View** – Single-column layout, stacked navigation, scaled fonts. 
 
 Example:  
-![Desktop Screenshot](screenshots/desktop.png)  
-![Tablet Screenshot](screenshots/tablet.png)  
+![Desktop Screenshot](screenshots/desktop.png)   
 ![Mobile Screenshot](screenshots/mobile.png)  
 
 ---
