@@ -55,6 +55,10 @@ Example:
 ![Desktop Screenshot](screenshots/desktop.png)   
 ![Mobile Screenshot](screenshots/mobile.png)  
 
+git add screenshots/ README.md
+git commit -m "Added screenshots for responsive design (desktop, mobile)"
+git push origin main
+
 ---
 
 ## 📚 References
