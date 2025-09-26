@@ -51,9 +51,13 @@ Please include screenshots of the website displayed at different screen sizes:
 1. **Desktop View** – Full layout with grid and multi-column content.  
 2. **Mobile View** – Single-column layout, stacked navigation, scaled fonts. 
 
-Example:  
-![Desktop Screenshot](screenshots/desktop.png)   
-![Mobile Screenshot](screenshots/mobile.png)  
+## Screenshots
+
+### Desktop View  
+![Desktop Screenshot](screenshots/desktop.png)
+
+### Mobile View  
+![Mobile Screenshot](screenshots/mobile.png)
 
 git add screenshots/ README.md
 git commit -m "Added screenshots for responsive design (desktop, mobile)"
